@@ -31,7 +31,6 @@
 TARGET_OTA_ASSERT_DEVICE := m8,m8wl,m8wlv,m8vzw,m8whl,m8spr
 
 BOARD_VENDOR := htc
-=======
 TARGET_GCC_VERSION_AND := 4.8
 TARGET_GCC_VERSION_ARM := 4.9
 TARGET_USE_O3 := true
